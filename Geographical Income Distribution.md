@@ -16,4 +16,4 @@ The first step is to obtain a shape file of Singapore with the correspodning sub
 
 After the correlation is performed, a heat map is then generated for the distribution of the income, with the intensity denoting the magnitude of the average incomes of the subzones.
 
-<img src="images/Geographical Income Distribution.jpg?raw=true"/></a>
+<img src="Images/Geographical Income Distribution.jpg?raw=true"/></a>
